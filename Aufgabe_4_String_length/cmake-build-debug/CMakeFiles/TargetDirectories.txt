@@ -1,0 +1,3 @@
+C:/Users/l3xie/OneDrive/Development/Aufgabe_4_String_length/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/l3xie/OneDrive/Development/Aufgabe_4_String_length/cmake-build-debug/CMakeFiles/Aufgabe_4_String_length.dir
+C:/Users/l3xie/OneDrive/Development/Aufgabe_4_String_length/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/l3xie/OneDrive/Development/Aufgaben_2021_02_10_Christian_Lange/Aufgabe_6_Dupletten/main.cpp
+iostream
+-
+string.h
+-
+

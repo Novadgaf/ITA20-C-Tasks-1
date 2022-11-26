@@ -1,0 +1,3 @@
+C:/Users/l3xie/OneDrive/Development/Aufgabe_5_String_Dreher/cmake-build-debug/CMakeFiles/Aufgabe_5_String_Dreher.dir
+C:/Users/l3xie/OneDrive/Development/Aufgabe_5_String_Dreher/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/l3xie/OneDrive/Development/Aufgabe_5_String_Dreher/cmake-build-debug/CMakeFiles/rebuild_cache.dir
